@@ -1,5 +1,5 @@
 CREATE DATABASE dbdemostruts1;
-
+-- database
 USE dbdemostruts1;
 
 CREATE TABLE `user` (
